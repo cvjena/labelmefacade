@@ -1,9 +1,10 @@
 # LabelMeFacade
 
 Date created: 03-Sep-2010
+
 Authors: Bjoern Froehlich and Erik Rodner
 
-This is the LabelMeFacade Image Database Version 1.0, which we created from LabelMe images for semantic segmentation research. Since this is a subset of LabelMe images, the images were collected by the authors of http://publications.csail.mit.edu/tmp/MIT-CSAIL-TR-2005-056.pdf . All images should only be used for non-commercial and research experiments. Please check with the authors of the LabelMe dataset, in case you are unsure about the respective copyrights and how they apply.
+This is the LabelMeFacade Image Dataset, which we created from LabelMe images for semantic segmentation research. Since this is a subset of LabelMe images, the images were originally collected by the authors of http://publications.csail.mit.edu/tmp/MIT-CSAIL-TR-2005-056.pdf . All images should only be used for non-commercial and research experiments. Please check with the authors of the LabelMe dataset, in case you are unsure about the respective copyrights and how they apply.
 
 ## Colors and subsets
 
